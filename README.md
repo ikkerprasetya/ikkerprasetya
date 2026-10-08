@@ -29,7 +29,7 @@
 
 I'm a student exploring the intersection of **Computer Science, Software Engineering, Linux, systems, and cybersecurity**.
 
-I enjoy understanding what happens underneath the abstractions — especially when the abstraction suddenly stops working.
+I enjoy understanding what happens underneath the abstractions, especially when the abstraction suddenly stops working.
 
 ```text
 Name        : Ikker Prasetya
