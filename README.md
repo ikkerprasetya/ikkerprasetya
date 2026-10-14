@@ -27,7 +27,7 @@
 
 ## `$ whoami`
 
-I'm a student exploring the intersection of **Computer Science, Software Engineering, Linux, systems, and cybersecurity**.
+I'm a student exploring the intersection of **Computer Science, Software Engineering, Linux, systems, and Cybersecurity**.
 
 I enjoy understanding what happens underneath the abstractions, especially when the abstraction suddenly stops working.
 
