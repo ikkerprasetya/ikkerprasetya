@@ -1,4 +1,4 @@
-# back with `ikkerprasetya` aka The New ToNa47
+# Back with `ikkerprasetya` aka The New ToNa47
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Software+Engineer+in+training;Computer+Science+%26+Systems+enthusiast;Linux+enjoyer;Currently+debugging+reality..." alt="Typing SVG" />
